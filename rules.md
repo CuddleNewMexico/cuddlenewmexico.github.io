@@ -1,4 +1,5 @@
 # Rules
+
 1. Pajamas stay on the whole time.
 2. No sex. (Yep, you read that right.)
 1. Kissing and nuzzling, as well as other forms of touch, are allowed, but you must ask permission and receive a verbal ‘Yes’ before you touch anyone.
