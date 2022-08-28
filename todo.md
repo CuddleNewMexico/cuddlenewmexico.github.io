@@ -4,4 +4,12 @@
 * eventbrite
 * meetup
 * posters
-* reddit
+* Social
+    * reddit - post in Albuquerque
+    * Cuddleist
+    * craigslist
+    * mailing group for old list
+    * meetup, utah group
+    
+    
+
