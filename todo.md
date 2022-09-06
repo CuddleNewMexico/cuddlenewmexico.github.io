@@ -5,7 +5,7 @@
 * meetup - waiting on text
 * posters - started, 
 * Social
-    * reddit - post in Albuquerque
+    * reddit - post in Albuquerque - didn't work
     * Cuddleist
     * mailing group for old list
     * meetup, utah group
