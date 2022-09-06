@@ -1,5 +1,11 @@
 # Welcome to the New Mexico Cuddle Community
 
+## Next Event:
+Sat Sept 24th  
+Albuquerque  
+[Sign up here](https://www.eventbrite.com/e/september-cuddles-albuquerque-tickets-409646592987)
+
+
 ## What is a Cuddle Fest?
 
 ![cuddle fest poster](images/cuddle_party.png)
