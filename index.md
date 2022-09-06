@@ -5,6 +5,8 @@ Sat Sept 24th
 Albuquerque  
 [Sign up here](https://www.eventbrite.com/e/september-cuddles-albuquerque-tickets-409646592987)
 
+[Meet your facilitator](pamela.md)
+
 
 ## What is a Cuddle Fest?
 

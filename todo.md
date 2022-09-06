@@ -1,14 +1,14 @@
 * website
     * style
     * text
-* eventbrite - started
-* meetup - waiting on text
-* posters - started, 
+* eventbrite - done
+* meetup - done
+* posters - done - need more posting
 * Social
     * reddit - post in Albuquerque - didn't work
-    * Cuddleist
+    * cuddle comfort - needs follow
     * mailing group for old list
-    * meetup, utah group
+    * meetup, utah group - emailed
     * check for group in pheonix
 
     
