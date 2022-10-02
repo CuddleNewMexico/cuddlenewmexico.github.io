@@ -22,12 +22,10 @@
 1. $20    
 
 1. Announcement
-    1. website
-    1. meetup
-    1. eventbrite list
-    1. cuddlecommfort - people that responded
-    1. fetlife
     1. Troi network
+    1. make troi page
+    1. Make a discord page
+    
 
 
 
