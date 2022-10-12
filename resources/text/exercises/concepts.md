@@ -31,3 +31,9 @@ Don't accept less because you are afraid of voicing your concerns or losing conn
 # Perma-Consent
 
 Perma-consent is an agreement for an opt-out. We are agreeing that by default we are in consent and that each of us will speak up if something happens that we **don't** want and the other person is expecting us to speak up in this situation.
+
+# Birds/Cats/Puppies
+
+* Birds are observing. They are the ones asking
+* Cat's are open to asking or being asked
+* Puppies are leaning towards a yes
