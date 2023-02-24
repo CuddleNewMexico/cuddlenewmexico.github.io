@@ -28,6 +28,10 @@
     
 
 
+Wrist Bands
+Red, I'll approach you
+Yellow, Approach me, but allow me to ask
+Green, Please ask me
 
 
 pagosa springs
