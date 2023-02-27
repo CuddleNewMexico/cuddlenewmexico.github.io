@@ -1,11 +1,11 @@
 # Welcome to the New Mexico Cuddle Community
 
 ## Next Event:
-Friday Oct 7th, 6pm
-Los Alamos
-[Sign up here](https://www.eventbrite.com/e/los-alamos-snugglelab-tickets-430503737267)
+Saturday March 11th, 2pm
+Santa Fe
+[Sign up here](https://www.eventbrite.com/e/march-11-cuddles-santa-fe-tickets-549772603657)
 
-[Meet your facilitator](troi.md)
+[Meet your facilitator](pamela.md)
 
 
 ## What is a Cuddle Fest?
