@@ -1,7 +1,4 @@
----
-layout: home
-comments: false
----
+
 # Welcome to the New Mexico Cuddle Community
 
 ## Next Event:
