@@ -33,15 +33,26 @@ I explained that I was going to ask her for every possible position. After each 
  I went through asking if she would like:
  a foot Massage, a back massage, a hand massage, a head massage, partner stretching, just sitting and talking, ying-yang cuddle, half spoon, face-to-face cuddle, a cuddle puddle, a spoon drawer, head in lap lying down, head in lap sitting up, having your joints moved, brushing or playing with your hair, spooning, back-to-back cuddling, front-to-back cuddling, side-to-side, the squish.
 
+![Cuddle Posters](../../../images/cuddle_posters.png)
+
 For each one, Sara responded with a yes or a no, and I just continued on asking about the next item.
 
  At the end, we took a breath and then I asked:
 
  > "Did any of those stand out for you?"
- 
+
  > "Yes" replied Sara "I'd love to lay my head in your lap and have you give me a head massage"
 
  > "I'd like that too" I replied...
+
+## Discovery
+
+There is a reason restaurants have menus and dessert trays. 
+
+We expect people to ask for what they want, but to do that they need to know what they want. And to do that they need to know how to go about figuring out what they might want.
+
+By taking the time to consider each possibility individually, Sara was able to learn what she wanted and ask for it. This exploration allows both people a chance to discover an opportunity that might otherwise go unrealized.
+
 
 
 
