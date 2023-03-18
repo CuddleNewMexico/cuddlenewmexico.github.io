@@ -8,7 +8,7 @@ How can you explore a connection with someone you just met to see if there is an
 
 ## Here's a story that might help:
 
-The other week at a cuddle party I was sitting next to two new people, we will call them Sara and Mike. The rest of the party was cuddling, and we were just sitting to the side chatting. Eventually I turned to Sara and asked:
+The other week at a cuddle party I was sitting next to two new people, we will call them Sara and Mike. This was the first cuddle party for both of them, and while the rest of the party was cuddling, we were just sitting to the side chatting. Eventually, I turned to Sara and asked:
 
 > "What is the thing that you really want to do today?"
 
