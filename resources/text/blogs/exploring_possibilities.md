@@ -38,6 +38,7 @@ For each one, Sara responded with a yes or a no, and I just continued on asking 
  At the end, we took a breath and then I asked:
 
  > "Did any of those stand out for you?"
+ 
  > "Yes" replied Sara "I'd love to lay my head in your lap and have you give me a head massage"
 
  > "I'd like that too" I replied...
