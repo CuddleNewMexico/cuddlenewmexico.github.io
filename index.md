@@ -1,11 +1,13 @@
+---
+layout: home
+comments: false
+---
 # Welcome to the New Mexico Cuddle Community
 
 ## Next Event:
 Saturday March 25th, 2pm
 Santa Fe
 [Sign up here](https://www.eventbrite.com/e/march-25-cuddles-santa-fe-tickets-582598205917)
-
-[Meet your facilitator](pamela.md)
 
 
 ## What is a Cuddle Fest?
