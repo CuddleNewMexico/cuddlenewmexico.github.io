@@ -16,13 +16,13 @@ She replied with a stunned
 
 > "No one has ever asked me that before..."
 
-It can be overwhelming to be faced with an infinite amount of possiblities.
+It can be overwhelming to be faced with an infinite amount of possibilities.
 Sometimes it is hard to even think of anything, much less the **best** thing. 
 So, we sat in silence for a few moments and then Mike prodded. 
 
 > "You didn't really answer..."
 
-Sara looked a bit like a deer in head lights. Maybe stressed at being put on the spot, maybe stressed at admitting she didn't know herself. So I offered an exercise:
+Sara looked a bit like a deer in headlights. Maybe stressed at being put on the spot, maybe stressed at admitting she didn't know herself. So I offered an exercise:
 
 ## Sampler exercise
 
