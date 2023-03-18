@@ -33,7 +33,7 @@ I explained that I was going to ask her for every possible position. After each 
  I went through asking if she would like:
  a foot Massage, a back massage, a hand massage, a head massage, partner stretching, just sitting and talking, ying-yang cuddle, half spoon, face-to-face cuddle, a cuddle puddle, a spoon drawer, head in lap lying down, head in lap sitting up, having your joints moved, brushing or playing with your hair, spooning, back-to-back cuddling, front-to-back cuddling, side-to-side, the squish.
 
-![Cuddle Posters](../../../images/cuddle_posters.png)
+![Cuddle Posters](../images/cuddle_posters.png)
 
 For each one, Sara responded with a yes or a no, and I just continued on asking about the next item.
 

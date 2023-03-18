@@ -1,6 +1,7 @@
 
 # Welcome to the New Mexico Cuddle Community
-
+| [Meetup](https://www.meetup.com/new-mexico-cuddle-party/) | [Blog](blog) |
+| ----- | ------ | 
 ## Next Event:
 Saturday March 25th, 2pm
 Santa Fe
