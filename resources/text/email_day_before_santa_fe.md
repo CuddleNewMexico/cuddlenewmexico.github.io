@@ -1,4 +1,4 @@
-# Cuddle Party Tomorrow (Sat, March 11th)
+# Cuddle Party Tomorrow (Sat, March 25th)
 
 Hello,
 
@@ -29,6 +29,6 @@ Remember it's a clean & sober event so no alcohol, etc...
 >    Phone: +1.858.336.6560  
 
 
-Thanks, Look forward to seeing you there!
-Your Facilitators,
-Pamela Bradford & Llewellyn Falco
+Thanks, Look forward to seeing you there!  
+Your Facilitator,  
+Llewellyn Falco

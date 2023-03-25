@@ -7,3 +7,6 @@
   1. Bow
 1. Choose the lesser of the choices
 1. Rotate
+
+
+1,2,3,4,5 - 
