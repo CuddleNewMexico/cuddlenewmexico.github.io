@@ -7,3 +7,8 @@
 * [ ] Shower and Clothes
 
 
+can i...
+can i ... now?
+would you mind if i ... now?
+
+
