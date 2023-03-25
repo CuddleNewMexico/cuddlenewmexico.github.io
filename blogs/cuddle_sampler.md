@@ -1,24 +1,28 @@
 # Cuddle Sampler
 
-* [ ] a foot Massage
+* [ ] a hand massage ![](../images/cuddle_sampler/hand_massage.png)
+* [ ] side-to-side  ![](../images/cuddle_sampler/side_to_side.png) 
 * [ ] a back massage
-* [ ] a hand massage
+* [ ] back-to-back cuddling
+* [ ] a foot Massage ![](../images/cuddle_sampler/foot_massage.png)
+* [ ] having your joints moved ![](../images/cuddle_sampler/joint_movement.png)
+* [ ] ying-yang cuddle ![](../images/cuddle_sampler/ying_yang.png)
+* [ ] head in lap sitting up
 * [ ] a head massage
-* [ ] partner stretching
-* [ ] ying-yang cuddle
+* [ ] head in lap lying down
 * [ ] half spoon
 * [ ] face-to-face cuddle
-* [ ] a cuddle puddle
-* [ ] a spoon drawer
-* [ ] head in lap lying down
-* [ ] head in lap sitting up
-* [ ] having your joints moved
+* [ ] front-to-back cuddling ![](../images/cuddle_sampler/front_to_back.png)
 * [ ] brushing or playing with your hair
 * [ ] spooning
-* [ ] back-to-back cuddling
-* [ ] front-to-back cuddling
-* [ ] side-to-side
-* [ ] the squish.
+* [ ] partner stretching
+* [ ] the squish ![](../images/cuddle_sampler/squish.png)
+* [ ] a spoon drawer
+* [ ] a cuddle puddle
 * [ ] just sitting and talking
+
+Find this page at:   
+
+![](../images/cuddle_sampler/qr_code.png) 
 
 
