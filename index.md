@@ -4,9 +4,9 @@
 [Meetup](https://www.meetup.com/new-mexico-cuddle-party/) | [Blog](blog) 
 
 ## Next Event:
-Saturday June 3rd, 2pm
-Santa Fe
-[Sign up here](https://www.eventbrite.com/e/june-3rd-cuddles-los-alamos-tickets-631890941817)
+Saturday July 15th, 2pm
+Los Alamos
+[Sign up here](https://www.eventbrite.com/e/july-15th-cuddles-los-alamos-tickets-650506501457)
 
 
 ## What is a Cuddle Fest?
