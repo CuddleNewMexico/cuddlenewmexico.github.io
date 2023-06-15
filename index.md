@@ -1,7 +1,7 @@
 
 # Welcome to the New Mexico Cuddle Community
 
-[Meetup](https://www.meetup.com/new-mexico-cuddle-party/) | [Blog](blog) 
+[Blog](blog) | [![Meetup](./images/meetup_logo.png)](https://www.meetup.com/new-mexico-cuddle-party/)  
 
 ## Next Event:
 Saturday July 15th, 2pm
