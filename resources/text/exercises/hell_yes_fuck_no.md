@@ -67,7 +67,7 @@ Sensations might include warmth, coolness, tension, relaxation, tingling, or eve
 1. [ ] "Can we try to sync our breathing while sitting close together?"
 1. [ ] "Would you feel okay if we lay side by side?"
 1. [ ] "Can we try a cuddle where I'm the little spoon?"
-1. [ ] "Could we try a full-body hug for a couple of minutes?"
+1. [ ] "Could we try a full-body hug ?"
 1. [ ] "Can we try a cuddle where I'm the big spoon?"
 1. [ ] "Would it be okay if I cradled you in my arms?"
 1. [ ] "May I stroke your hair while we talk?"
@@ -89,3 +89,9 @@ No, Yes, Other
 1. **No:** until you can say no, nothing matters
 1. **Yes:** Knowing what you want 
 1. **Other:** Find creative options that satisfy both parties.
+
+
+
+# Ideas
+Imagine .... each person
+just yeses
